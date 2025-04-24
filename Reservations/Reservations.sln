@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservations", "Reservation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservations.Tests", "Reservations.Tests\Reservations.Tests.csproj", "{EE6B25C5-C8AF-4284-9B3E-D2FD56C6A2D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amadeus", "Amadeus\Amadeus.csproj", "{A5979514-6524-4539-8CC0-38F857CEE3FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EE6B25C5-C8AF-4284-9B3E-D2FD56C6A2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE6B25C5-C8AF-4284-9B3E-D2FD56C6A2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE6B25C5-C8AF-4284-9B3E-D2FD56C6A2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5979514-6524-4539-8CC0-38F857CEE3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5979514-6524-4539-8CC0-38F857CEE3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5979514-6524-4539-8CC0-38F857CEE3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5979514-6524-4539-8CC0-38F857CEE3FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
